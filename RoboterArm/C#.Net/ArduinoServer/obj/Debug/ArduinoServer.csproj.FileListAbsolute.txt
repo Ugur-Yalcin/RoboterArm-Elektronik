@@ -1,0 +1,82 @@
+E:\Projects\ArduinoServer\ArduinoServer\bin\Debug\ArduinoServer.exe
+E:\Projects\ArduinoServer\ArduinoServer\bin\Debug\ArduinoServer.pdb
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.Form1.resources
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.exe
+E:\Projects\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.pdb
+E:\Projects\Arduino\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.exe
+E:\Projects\Arduino\ArduinoServer\ArduinoServer\obj\Debug\ArduinoServer.pdb
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.exe
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.pdb
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\bin\Debug\ArduinoServer.exe
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\bin\Debug\ArduinoServer.pdb
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.Form1.resources
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.csprojResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.exe
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.pdb
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.csprojResolveAssemblyReference.cache
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.Form1.resources
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\bin\Debug\ArduinoServer.exe
+C:\Users\Ugur\Desktop\ArduinoRobotArm\ArduinoServer\bin\Debug\ArduinoServer.pdb
+C:\Users\Ugur\Desktop\ArduinoRobotArm\PC\ArduinoServer\obj\Debug\ArduinoServer.exe
+C:\Users\Ugur\Desktop\ArduinoRobotArm\PC\ArduinoServer\obj\Debug\ArduinoServer.pdb
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csprojResolveAssemblyReference.cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csprojResolveAssemblyReference.cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+E:\PIC PROGRAMLAMA\ARDUINO\ARDUINO_CALISMALARIM\Servo\ROBOT_ARM\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csprojResolveAssemblyReference.cache
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.Cache
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+C:\Users\ugury\Desktop\Mini\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csprojAssemblyReference.cache
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.cache
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+C:\Users\ugury\Desktop\RobotArm\Mini_Robot_Arm\PC\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.AssemblyReference.cache
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.cache
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+D:\GITHUB\Roboterarm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.exe
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\bin\Debug\ArduinoServer.pdb
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.AssemblyReference.cache
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Form.resources
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.Properties.Resources.resources
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.GenerateResource.cache
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.csproj.CoreCompileInputs.cache
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.exe
+D:\GITHUB\RobeterArm\RoboterArm\C#.Net\ArduinoServer\obj\Debug\ArduinoServer.pdb
